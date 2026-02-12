@@ -13,7 +13,7 @@ It captures and records keystrokes for educational and cybersecurity learning pu
 ##  Installation & Usage
 1. Clone this repository:-
    ```bash
-   git clone https://github.com/your-username/keylogger-python.git
+   git clone https://github.com/PrabhSaran-07/keylogger-python.git
    cd keylogger-python
 
 2. Install dependencies:-
